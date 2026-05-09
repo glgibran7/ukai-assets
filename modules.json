@@ -1,14 +1,11 @@
 [
   {
-    "id": 1,
-    "image": "https://raw.githubusercontent.com/glgibran7/ukai-assets/main/images/moduls/modul1.png"
+    "image": "https://cdn.jsdelivr.net/gh/glgibran7/ukai-assets@main/images/moduls/modul1.png"
   },
   {
-    "id": 2,
-    "image": "https://raw.githubusercontent.com/glgibran7/ukai-assets/main/images/moduls/modul2.png"
+    "image": "https://cdn.jsdelivr.net/gh/glgibran7/ukai-assets@main/images/moduls/modul2.png"
   },
   {
-    "id": 3,
-    "image": "https://raw.githubusercontent.com/glgibran7/ukai-assets/main/images/moduls/modul3.png"
+    "image": "https://cdn.jsdelivr.net/gh/glgibran7/ukai-assets@main/images/moduls/modul3.png"
   }
 ]
